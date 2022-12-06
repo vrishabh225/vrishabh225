@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrishabh225
 - 👀 I’m interested in rpg games and all games
-- 📫 How to reach me https://discord.com/vrishabh225#3790
+- 📫 How to reach me vrishabh225#3790
 
 <!---
 vrishabh225/vrishabh225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
